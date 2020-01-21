@@ -1,6 +1,7 @@
 <template>
   <q-page padding>
     <!-- content -->
+    <h3> I am Photos </h3>
   </q-page>
 </template>
 
